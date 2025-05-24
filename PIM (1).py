@@ -305,3 +305,4 @@ def menu():
 
 #chamada do menu principal (inicio do programa)
 menu()
+#Vai corinthians
